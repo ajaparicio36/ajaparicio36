@@ -15,7 +15,7 @@ Here are the languages I am highly proficient in from left to right: <br>
 
 <pre>
 Here are other languages I have experience in but I don't have enough projects in to call myself "proficient" at: <br>
-  <img src="icons/c-.png" alt="C++" width="64" height="64">            <img src="icons/c-sharp.png" alt="C#" width="64" height="64">            <img src="icons/unity.png" alt="Unity" width="64" height="64">            <img src="icons/java.png" alt="Java" width="64" height="64">
+  <img src="icons/c-.png" alt="C++" width="64" height="64">            <img src="icons/c-sharp.png" alt="C#" width="64" height="64">            <img src="icons/unity.png" alt="Unity" width="64" height="64">
 </pre>
 
 I watch some anime, but you know Dragon Ball is the GOAT! <br>
