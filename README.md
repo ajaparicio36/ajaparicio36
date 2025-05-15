@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-I'm **AJ**! I am a **Software Engineering** student from Central Philippine University!
+I'm **AJ**! I am a **Software Engineer**!
 
 - ❓ I'm a __very curious__ person
-- 🏗️ I'm currently working on [**RawMats**](https://github.com/dreamsoft-cpu/rawmats) as my project for my 3rd year in college!
-- 🦁 I'm competing in __VALORANT__ for **Golden Lions Esports' Collegiate Team**
+- 🦁 I'm competing in __VALORANT__ for **Golden Lions Esports**
 - 🏀 I love **basketball**!
 
 I have a plethra of programming languages that I have experience in.
 <pre>
 Here are the languages I am highly proficient in from left to right: <br>
-  <img src="icons/typescript.png" alt="JavaScript/TypeScript" width="64" height="64" />            <img src="icons/python.png" alt="Python" width="64" height="64" />            <img src="icons/flutter.png" alt="Dart/Flutter" width="64" height="64" />            <img src="icons/godot.png" alt="Godot" width="64" height="64" />
+  <img src="icons/typescript.png" alt="JavaScript/TypeScript" width="64" height="64" />            <img src="icons/python.png" alt="Python" width="64" height="64" />            <img src="icons/flutter.png" alt="Dart/Flutter" width="64" height="64" />            <img src="icons/godot.png" alt="Godot" width="64" height="64" />            <img src="icons/java.png" alt="Java" width="64" height="64">
 </pre>
 
 
