@@ -1,8 +1,6 @@
-<a href="https://ajaparicio.com">
-  <img src="assets/banner.svg" width="100%" alt="Anthony John Aparicio, Full-stack Engineer" />
-</a>
-
-<br />
+<p>
+  <a href="https://ajaparicio.com"><img src="assets/banner.svg" width="100%" alt="Anthony John Aparicio, Full-stack Engineer" /></a>
+</p>
 
 I'm AJ, a full-stack engineer from Iloilo City, Philippines. I build the web, mobile and backend systems that businesses run on every day: a POS serving 300+ sales a day, a cafe photobooth with 10,000+ sales, an event discovery app backed by city startup funding, and one shared identity for 10+ applications.
 
